@@ -10,8 +10,6 @@ public class App
     {
         System.out.println("Hello World! by java8" );
 
-        System.out.println("Hello welcome Spring" );
-
         System.out.println("Hello welcome Spring boot" );
 
     }
